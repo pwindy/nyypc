@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="59px" height="24px" viewBox="0 0 59 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>开关-打开</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="项目监控" transform="translate(-1510.000000, -510.000000)">
+            <g id="开关-打开" transform="translate(1510.000000, 510.000000)">
+                <rect id="矩形" fill="#03E779" x="0" y="0" width="59" height="24" rx="12"></rect>
+                <polygon id="路径" fill="#FFFFFF" points="10 10.8284271 11.4142136 9.41421356 14.2426407 12.2426407 18.4852814 8 19.8994949 9.41421356 14.2426407 15.0710678"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
